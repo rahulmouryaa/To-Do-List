@@ -11,7 +11,7 @@ A simple and interactive To-Do List application built with **HTML, CSS, and Java
 ✅ Persistent storage using `localStorage`  
 
 ## 📷 Preview  
-![TaskMaster Screenshot](https://via.placeholder.com/800x400?text=TaskMaster+Preview) *(Replace with actual screenshot URL)*  
+![TaskMaster Screenshot](https://github.com/rahulmouryaa/To-Do-List/blob/9ab65278b2e5412c27a8f1c2ea7e459123cdfdd8/UI.png.png) 
 
 ## 🛠️ Tech Stack  
 - **HTML** – Structure  
